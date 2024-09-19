@@ -56,7 +56,7 @@
 // alert(result);            8
 
 // let jobTitle = prompt("Введите свою должность");
-
+ 
 // let title =
 //   jobTitle == "Сотрудник"
 //     ? "Привет"
